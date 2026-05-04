@@ -1,16 +1,10 @@
-/* =============================
-   GOTHIC / DARK THEME STYLES
-   Harmony Hub Redesign
-============================= */
 
-/* Reset */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Base */
 body {
   font-family: 'Georgia', serif;
   background: #0b0b10;
