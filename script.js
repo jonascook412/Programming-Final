@@ -24,9 +24,9 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
 
-  // =============================
-  // 2. FORM VALIDATION (CONTACT PAGE)
-  // =============================
+  
+  // FORM VALIDATION (CONTACT PAGE)
+  
   const form = document.querySelector(".contact-form");
 
   if (form) {
@@ -53,9 +53,9 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
 
-  // =============================
-  // 3. SEARCH FILTER (BROWSE PAGE)
-  // =============================
+  
+  // SEARCH FILTER (BROWSE PAGE)
+  
   const searchInput = document.querySelector("#searchInput");
 
   if (searchInput) {
